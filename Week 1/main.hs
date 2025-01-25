@@ -1,6 +1,6 @@
 
 main = do
-    putStrLn ("Length list of [1, 2, 3, 4, 5]: ")
+    putStrLn ("Ledngth list of [1, 2, 3, 4, 5]: ")
     print (lengthList [1, 2, 3, 4, 5])
     putStrLn ("Length list of []: ")
     print (lengthList [])
